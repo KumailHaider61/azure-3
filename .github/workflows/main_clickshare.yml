@@ -52,4 +52,4 @@ jobs:
           app-name: 'ClickShare'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C9E691991B04123A1CEBBB1C8B5B770 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C7666116C664198A26F7A8E8A3D7280 }}
